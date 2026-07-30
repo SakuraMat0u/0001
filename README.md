@@ -9,3 +9,5 @@
 3. 在终端或命令行中运行：
    ```bash
    python 11.py
+# 作者
+正在学习python和github的初学者。
